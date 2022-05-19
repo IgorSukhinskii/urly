@@ -1,9 +1,11 @@
 # sURLY: short URLS R LovelY!
 This is a simple URL shortener that I've made in a day
+
 It shortens URLs
 
 ## How to run it
 Open 2 terminals
+
 First:
 ```bash
 cd ./urly-backend
