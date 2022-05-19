@@ -1,0 +1,8 @@
+{
+  "database": {
+    "fileName": "urly.db"
+  },
+  "app": {
+    "port": 5000
+  }
+}
